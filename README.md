@@ -3,7 +3,7 @@
 <h3 align="center" dir="auto"<a href="https://github.com/Sup4eg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=600&lines=Programmer%2C+Developer%2C+Chief+Technical+Officer" alt="Typing SVG" /></a></h3>
 
 
-<p> 
+<div> 
   <summary><h3>🛠️ My Favorite Tools</h2></summary>
   
   <h4>👨‍💻 Programming and Markup Languages</h3>
@@ -106,4 +106,4 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</p>
+</div>
