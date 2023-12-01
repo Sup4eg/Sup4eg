@@ -21,7 +21,7 @@
   <h4>🧰 Frameworks and Libraries</h4>
 
   <p>
-<a href="#"><img alt="Spring" src="https://custom-icon-badges.demolab.com/badge/Spring-%2328f00a?logo=spring&logoColor=%23fff"></a>
+<a href="#"><img alt="Spring" src="https://custom-icon-badges.demolab.com/badge/Spring-%23e2cc1e?logo=Spring&logoColor=%23fff"></a>
 <a href="#"><img alt="Laravel" src="https://custom-icon-badges.demolab.com/badge/Laravel-%23fc0505?logo=Laravel&logoColor=%23fff"></a>
 <a href="#"><img alt="Hibernate ORM" src="https://custom-icon-badges.demolab.com/badge/Hibernate-%23000?logo=Hibernate&logoColor=%23fff"></a>
 <a href="#"><img alt="Flyway" src="https://custom-icon-badges.demolab.com/badge/Flyway-%23f00a15?logo=flyway&logoColor=%23fff"></a>
