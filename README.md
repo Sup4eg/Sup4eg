@@ -47,7 +47,7 @@
   <h4>💻 Software and Tools</h4>
 
 <p>
- <a href="#"><img alt="Git" src="https://custom-icon-badges.demolab.com/Git-F05033.svg?logo=git&logoColor=white"></a>
+ <a href="#"><img alt="Git" src="https://custom-icon-badges.demolab.com/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
  <a href="#"><img alt="Postman" src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
  <a href="#"><img alt="Bitwarden" src="https://custom-icon-badges.demolab.com/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
  <a href="#"><img alt="Jira" src="https://custom-icon-badges.demolab.com/badge/Jira-%231269e4?logo=Jira&logoColor=%23fff"></a>
