@@ -7,8 +7,7 @@
   <h3>🛠️ My Favorite Tools</h3>
   <h4>👨‍💻 Programming and Markup Languages</h4>
   <p>
-    <a href="#"><img alt="C" src="https://camo.githubusercontent.com/f18ef18ea36b8b27841f21cb0da7ab2a5635035d52818b5e3516ef1fee59559d/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f432d3033353939432e7376673f6c6f676f3d632d696e2d68657861676f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&amp;logoColor=white"></a>
-
+<a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&amp;logoColor=white"></a>
 <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
