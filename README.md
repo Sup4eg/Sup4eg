@@ -26,7 +26,9 @@
 <p>
 <a href="#"><img alt="Spring" src="https://custom-icon-badges.demolab.com/badge/Spring-%23e2cc1e?logo=Spring&logoColor=%23fff"></a>
 <a href="#"><img alt="Laravel" src="https://custom-icon-badges.demolab.com/badge/Laravel-%23fc0505?logo=Laravel&logoColor=%23fff"></a>
-<a href="#"><img alt="Hibernate ORM" src="https://custom-icon-badges.demolab.com/badge/Hibernate-%23000?logo=Hibernate&logoColor=%23fff"></a>
+  
+
+<a href="#"><img alt="Hibernate ORM" src="https://custom-icon-badges.demolab.com/badge/Hibernate-%23121011?logo=hibernate&logoColor=%23fff"></a>
 <a href="#"><img alt="Flyway" src="https://custom-icon-badges.demolab.com/badge/Flyway-%23f00a15?logo=flyway&logoColor=%23fff"></a>
 <a href="#"><img alt="RabbitMQ" src="https://custom-icon-badges.demolab.com/badge/RabbitMQ-%23000?logo=RabbitMQ"></a>
 <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
