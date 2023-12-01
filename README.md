@@ -29,8 +29,8 @@
 <a href="#"><img alt="Hibernate ORM" src="https://custom-icon-badges.demolab.com/badge/Hibernate-%23121011?logo=hibernate&logoColor=%23fff"></a>
 <a href="#"><img alt="Flyway" src="https://custom-icon-badges.demolab.com/badge/Flyway-%23f00a15?logo=flyway&logoColor=%23fff"></a>
 <a href="#"><img alt="RabbitMQ" src="https://custom-icon-badges.demolab.com/badge/RabbitMQ-%23121011?logo=rabbitmq&logoColor=%23f21707"></a>
-<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-<a href="#"><img alt="Mockito" src="https://custom-icon-badges.demolab.com/badge/Mockito-%23000?logo=mocha&logoColor=%23fff"></a>
+<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>  
+<a href="#"><img alt="Mockito" src="https://custom-icon-badges.demolab.com/badge/Mockito-%23121011?logo=mocha&logoColor=%23fff"></a>
 <a href="#"><img alt="Gradle" src="https://custom-icon-badges.demolab.com/badge/Gradle-%23423e31?logo=gradle"></a>
 <a href="#"><img alt="Maven" src="https://custom-icon-badges.demolab.com/badge/Maven-%23474e80?logo=Apache%20Maven"></a>
 </p>
@@ -67,7 +67,7 @@
  <a href="#"><img alt="Ubuntu Server" src="https://custom-icon-badges.demolab.com/badge/Ubuntu-%23fb4a0d?logo=ubuntu&logoColor=%23fff"></a>
  <a href="#"><img alt="Windows Server" src="https://custom-icon-badges.demolab.com/badge/Windows%20Server-%2300baf6?logo=windows10&logoColor=%23fff"></a>
  <a href="#"><img alt="Active Directory" src="https://custom-icon-badges.demolab.com/badge/Active%20Directory-%2300baf6?logo=windows10&logoColor=%23fff"></a>
- <a href="#"><img alt="Cobalt Strike" src="https://custom-icon-badges.demolab.com/badge/Cobalt%20Strike-%23000?logoColor=%23fff"></a>
+ <a href="#"><img alt="Cobalt Strike" src="https://custom-icon-badges.demolab.com/badge/Cobalt%20Strike-%23121011?logoColor=%23fff"></a>
  <a href="#"><img alt="Adobe Photoshop" src="https://custom-icon-badges.demolab.com/badge/Photoshop-%23001e36?logo=adobephotoshop&logoColor=%23fff"></a>
  <a href="#"><img alt="Adobe Xd" src="https://custom-icon-badges.demolab.com/badge/Adobe%20Xd-%23ff61f6?logo=adobexd&logoColor=%23fff"></a>
   </p>
