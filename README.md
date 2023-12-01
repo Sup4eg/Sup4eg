@@ -21,7 +21,15 @@
   <h4>🧰 Frameworks and Libraries</h4>
 
   <p>
-      <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+<a href="#"><img alt="Spring" src="https://custom-icon-badges.demolab.com/badge/Spring-%2328f00a?logo=spring&logoColor=%23fff"></a>
+<a href="#"><img alt="Laravel" src="https://custom-icon-badges.demolab.com/badge/Laravel-%23fc0505?logo=Laravel&logoColor=%23fff"></a>
+<a href="#"><img alt="Hibernate ORM" src="https://custom-icon-badges.demolab.com/badge/Hibernate-%23000?logo=Hibernate&logoColor=%23fff"></a>
+<a href="#"><img alt="Flyway" src="https://custom-icon-badges.demolab.com/badge/Flyway-%23f00a15?logo=flyway&logoColor=%23fff"></a>
+<a href="#"><img alt="RabbitMQ" src="https://custom-icon-badges.demolab.com/badge/RabbitMQ-%23000?logo=RabbitMQ"></a>
+<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+<a href="#"><img alt="Mockito" src="https://custom-icon-badges.demolab.com/badge/Mockito-%23000?logo=mocha&logoColor=%23fff"></a>
+<a href="#"><img alt="Gradle" src="https://custom-icon-badges.demolab.com/badge/Gradle-%23423e31?logo=gradle"></a>
+<a href="#"><img alt="Maven" src="https://custom-icon-badges.demolab.com/badge/Maven-%23474e80?logo=Apache%20Maven"></a>
   </p>
 
   <h4>🗄️ Databases and Cloud Hosting</h4>
