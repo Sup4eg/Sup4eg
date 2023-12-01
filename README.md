@@ -38,9 +38,10 @@
   <h4>🗄️ Databases and Cloud Hosting</h4>
 
   <p>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src ="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Obsidian" src="https://custom-icon-badges.demolab.com/badge/Obsidian-%237356f0?logo=obsidian&logoColor=%23fff"></a>
+<a href="#"><img alt="Notion" src="https://custom-icon-badges.demolab.com/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
   </p>
 
   <h4>💻 Software and Tools</h4>
