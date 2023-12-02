@@ -72,3 +72,5 @@
  <a href="#"><img alt="Adobe Xd" src="https://custom-icon-badges.demolab.com/badge/Adobe%20Xd-%23ff61f6?logo=adobexd&logoColor=%23fff"></a>
   </p>
 </div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sup4eg)](https://git.io/streak-stats)
