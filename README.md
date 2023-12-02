@@ -95,6 +95,6 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sup4eg Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sup4eg&bg_color=1F222E&color=36bcf7&hide_border=true&theme=react" /></a>
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sup4eg Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sup4eg&bg_color=1F222E&color=36bcf7&line=36bcf7&point=FFFFFF&hide_border=true" /></a>
 
 </details>
