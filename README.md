@@ -73,8 +73,8 @@
   </p>
 </div>
 
-<details> 
-  <summary><h3>📊 Stats and Activity</h3></summary>
+<div> 
+  <h3>📊 Stats and Activity</h3>
 
   <h4>🔥 Streak Stats</h4>
 
@@ -97,4 +97,4 @@
 
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sup4eg Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sup4eg&bg_color=1F222E&color=36bcf7&line=36bcf7&point=FFFFFF&hide_border=true" /></a>
 
-</details>
+</div>
