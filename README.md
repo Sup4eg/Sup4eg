@@ -74,9 +74,9 @@
 </div>
 
 <details> 
-  <summary><h3>📊 Stats and Activity</h2></summary>
+  <summary><h3>📊 Stats and Activity</h3></summary>
 
-  <h4>🔥 Streak Stats</h3>
+  <h4>🔥 Streak Stats</h4>
 
   <p>
     <a href="https://github.com/sup4eg/github-readme-streak-stats">
@@ -85,9 +85,9 @@
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sup4eg Github Stats" src="https://sup4eg-github-readme-stats.vercel.app/api/?username=Sup4eg&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sup4eg Top Languages" src="https://sup4eg-github-readme-stats.vercel.app/api/top-langs/?username=Sup4eg&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <h4>💻 GitHub Profile Stats</h4>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sup4eg Github Stats" src="https://sup4eg-github-readme-stats.vercel.app/api/?username=sup4eg&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sup4eg Top Languages" src="https://sup4eg-github-readme-stats.vercel.app/api/top-langs/?username=Sup4eg&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
