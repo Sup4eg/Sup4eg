@@ -80,7 +80,7 @@
 
   <p>
     <a href="https://github.com/sup4eg/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sup4eg streak" src="https://streak-stats.demolab.com/?user=sup4eg&theme=transparent&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sup4eg streak" src="https://streak-stats.demolab.com/?user=sup4eg&theme=tokyonight-duo&hide_border=true"/>
     </a>
   </p>
 
