@@ -15,7 +15,7 @@
   <h4>🗄️ Databases and Cloud Hosting</h4>
 
 <p>
-<a href="#"><img alt="PostgreSQL" src ="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>\
+<a href="#"><img alt="PostgreSQL" src ="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="Notion" src="https://custom-icon-badges.demolab.com/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
 <a href="#"><img alt="Obsidian" src="https://custom-icon-badges.demolab.com/badge/Obsidian-%237356f0?logo=obsidian&logoColor=%23fff"></a>
 </p>
