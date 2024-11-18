@@ -24,7 +24,7 @@
   <h4>💻 Software & Tools</h4>
 
 <p>
- <a href="#"><img alt="Git" src="https://custom-icon-badges.demolab.com/badge/Perforce Helix Core -#fff.svg?logo=helix&logoColor=blue"></a>
+ <a href="#"><img alt="Git" src="https://custom-icon-badges.demolab.com/badge/helix-316192.svg?logo=helix&logoColor=blue"></a>
  <a href="#"><img alt="Git" src="https://custom-icon-badges.demolab.com/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
  <a href="#"><img alt="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-%23fc6b0e?logo=gitlab&logoColor=%23fff"></a>
  <a href="#"><img alt="Intellij IDEA" src="https://custom-icon-badges.demolab.com/badge/Intellij%20IDEA-%23147cef?logo=intellijidea&logoColor=%23fff"></a>
