@@ -26,7 +26,7 @@
 <p>
  <a href="#"><img alt="Helix Core" src="https://custom-icon-badges.demolab.com/badge/Perforce Helix Core-ffffff.svg?logo=helix&logoColor=blue"></a>
  <a href="#"><img alt="Git" src="https://custom-icon-badges.demolab.com/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Blender" src="https://custom-icon-badges.demolab.com/badge/Blender-#FF0000.svg?logo=blender&logoColor=white"></a>
+  <a href="#"><img alt="Blender" src="https://custom-icon-badges.demolab.com/badge/Blender-FF0000.svg?logo=blender&logoColor=white"></a>
  <a href="#"><img alt="Intellij IDEA" src="https://custom-icon-badges.demolab.com/badge/Intellij%20IDEA-%23147cef?logo=intellijidea&logoColor=%23fff"></a>
  <a href="#"><img alt="DataGrip" src="https://custom-icon-badges.demolab.com/badge/DataGrip-%23fb59e6?logo=datagrip&logoColor=%23fff"></a>
  <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-%23a679dd?logo=visualstudio&logoColor=%23fff"></a>
