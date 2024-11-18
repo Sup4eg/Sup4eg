@@ -7,7 +7,7 @@
   <h3>🛠️ My Favorite Tools</h3>
   <h4>👨‍💻 Programming Languages & Frameworks</h4>
 <p>
-<a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/Unreal Engine 5-white.svg?logo=unreal-engine-svgrepo-com&logoColor=black"></a>
+<a href="#"><img alt="Unreal Engine" src="https://custom-icon-badges.demolab.com/badge/Unreal Engine 5-white.svg?logo=unreal-engine-svgrepo-com&logoColor=black"></a>
 <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -24,9 +24,9 @@
   <h4>💻 Software & Tools</h4>
 
 <p>
- <a href="#"><img alt="Git" src="https://custom-icon-badges.demolab.com/badge/Perforce Helix Core-ffffff.svg?logo=helix&logoColor=blue"></a>
+ <a href="#"><img alt="Helix Core" src="https://custom-icon-badges.demolab.com/badge/Perforce Helix Core-ffffff.svg?logo=helix&logoColor=blue"></a>
  <a href="#"><img alt="Git" src="https://custom-icon-badges.demolab.com/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
- <a href="#"><img alt="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-%23fc6b0e?logo=gitlab&logoColor=%23fff"></a>
+  <a href="#"><img alt="Blender" src="https://custom-icon-badges.demolab.com/badge/Blender-#FF0000.svg?logo=blender&logoColor=white"></a>
  <a href="#"><img alt="Intellij IDEA" src="https://custom-icon-badges.demolab.com/badge/Intellij%20IDEA-%23147cef?logo=intellijidea&logoColor=%23fff"></a>
  <a href="#"><img alt="DataGrip" src="https://custom-icon-badges.demolab.com/badge/DataGrip-%23fb59e6?logo=datagrip&logoColor=%23fff"></a>
  <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-%23a679dd?logo=visualstudio&logoColor=%23fff"></a>
