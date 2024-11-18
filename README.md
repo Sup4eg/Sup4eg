@@ -11,7 +11,7 @@
 <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="SFML" src="https://custom-icon-badges.demolab.com/badge/SFML-C9C9C9.svg?logo=unreal-engine-svgrepo-com&logoColor=white"></a>
+  <a href="#"><img alt="SFML" src="https://custom-icon-badges.demolab.com/badge/SFML-C9C9C9.svg?logo=sfml&logoColor=white"></a>
 </p>
 
   <h4>🗄️ Databases & Cloud Hosting</h4>
