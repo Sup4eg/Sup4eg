@@ -56,4 +56,12 @@
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sup4eg&theme=github_dark"
   alt="Top Languages"
 />
+
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sup4eg&theme=github_dark"
+    alt="GitHub Profile Summary"
+  />
+</p>
 </div>
