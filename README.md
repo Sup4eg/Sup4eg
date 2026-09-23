@@ -54,6 +54,6 @@
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sup4eg&theme=github_dark"
-  alt="Top Languages by Repo"
+  alt="Top Languages"
 />
 </div>
