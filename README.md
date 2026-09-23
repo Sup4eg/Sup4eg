@@ -17,14 +17,20 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?logo=unrealengine&logoColor=white" alt="Unreal Engine 5">
 <img src="https://img.shields.io/badge/System%20Design-34495E" alt="System Design">
+<img src="https://img.shields.io/badge/Technical%20Leadership-1F4E79" alt="Technical Leadership">
 <img src="https://img.shields.io/badge/Gameplay%20Ability%20System-6A5ACD" alt="Gameplay Ability System">
 <img src="https://img.shields.io/badge/Combat%20%26%20Weapon%20Systems-8B0000" alt="Combat & Weapon Systems">
 <img src="https://img.shields.io/badge/Gameplay%20AI-008080" alt="Gameplay AI">
 <img src="https://img.shields.io/badge/3D%20Math-4B0082" alt="3D Math">
 <img src="https://img.shields.io/badge/Multiplayer-00599C" alt="Multiplayer">
 <img src="https://img.shields.io/badge/Multithreading-555555" alt="Multithreading">
-<img src="https://img.shields.io/badge/Slate%20%7C%20UMG%20%7C%20Common%20UI%20%7C%20MVVM-6C5CE7" alt="Slate UMG Common UI MVVM">
-<img src="https://img.shields.io/badge/Optimization%20%7C%20Debugging%20%7C%20Profiling-2E8B57" alt="Optimization Debugging Profiling">
+<img src="https://img.shields.io/badge/Slate-313131" alt="Slate">
+<img src="https://img.shields.io/badge/UMG-6C5CE7" alt="UMG">
+<img src="https://img.shields.io/badge/Common%20UI-7B68EE" alt="Common UI">
+<img src="https://img.shields.io/badge/MVVM-8A2BE2" alt="MVVM">
+<img src="https://img.shields.io/badge/Optimization-2E8B57" alt="Optimization">
+<img src="https://img.shields.io/badge/Debugging-556B2F" alt="Debugging">
+<img src="https://img.shields.io/badge/Profiling-3CB371" alt="Profiling">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" alt="Lua">
 <img src="https://img.shields.io/badge/Agile-Scrum%20%7C%20Kanban%20%7C%20XP-2496ED" alt="Agile">
@@ -37,8 +43,8 @@
 <img src="https://img.shields.io/badge/Perforce-404040?logo=perforce&logoColor=white" alt="Perforce">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" alt="Visual Studio">
 <img src="https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white" alt="Rider">
-<img src="https://img.shields.io/badge/Cursor-000000" alt="Cursor">
-<img src="https://img.shields.io/badge/Claude%20Code-D97757" alt="Claude Code">
+<img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" alt="Cursor">
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white" alt="Claude Code">
 </p>
 
 <h4>💻 GitHub Profile Stats</h4>
