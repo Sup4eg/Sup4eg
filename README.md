@@ -50,13 +50,10 @@
 
 <div> 
   <h3>📊 Stats and Activity</h3>
-  <h4>💻 GitHub Profile Stats</h4>
+ <h4>💻 GitHub Profile Stats</h4>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      alt="Sup4eg Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sup4eg&langs_count=8&layout=compact&theme=react&hide_border=true&hide=Jupyter%20Notebook,Roff"
-      height="192"
-    />
-  </a>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sup4eg&theme=github_dark"
+  alt="Top Languages by Repo"
+/>
 </div>
