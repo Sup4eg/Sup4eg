@@ -52,16 +52,6 @@
   <h3>📊 Stats and Activity</h3>
  <h4>💻 GitHub Profile Stats</h4>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sup4eg&theme=github_dark"
-  alt="Top Languages"
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sup4eg&theme=github_dark" alt="Top Languages"
 />
-
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sup4eg&theme=github_dark"
-    alt="GitHub Profile Summary"
-  />
-</p>
 </div>
